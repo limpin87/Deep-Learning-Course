@@ -1,2 +1,4 @@
 */Data/
 */logs/
+*/.ipynb_checkpoints/
+*/vgg16/
