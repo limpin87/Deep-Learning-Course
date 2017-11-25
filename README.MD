@@ -4,7 +4,7 @@ This repository contains all of the projects which have been submitted in part f
 
 Below are brief descriptions of each project carried out.
 
-## 1. [Dense NN classification Problem](https://github.com/limpin87/Deep-Learning-Course/tree/master/DenseNN_Project).
+## 1. [Dense NN classification Problem](https://github.com/limpin87/Deep-Learning-Course/tree/master/DenseNN_Project)
 
 ### Problem Statement
 In this project, a dense Neural Network was created to solve a regression problem as a classifcation problem.
